@@ -24,7 +24,7 @@ city VARCHAR(10)     --- название города адреса компан
 --Select * from adres;
 
 SELECT * FROM adres  WHERE 
-adrstart = newadr AND id = 54;
+(adrstart >= newadr AND adrstart <= newadr) AND id = 54;
 
 
 
