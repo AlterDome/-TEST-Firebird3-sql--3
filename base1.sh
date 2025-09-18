@@ -167,7 +167,7 @@ echo " 3 - Вариант 1  Select ...   /   3select.sql  "
 echo ""
 
 
-echo " 4 - Вариант 2  Select ...   /  4select.sql "
+echo " 4 - ***  Вариант 2  Select ...   /  4select.sql "
 echo ""
 
 echo " 5 - Вариант 3  Select ...   /  5select.sql  "
@@ -176,7 +176,7 @@ echo ""
 echo " 6 - Вариант 4  Select ...   /  6select.sql  "
 echo ""
 
-echo " 7 - Вариант 5  Select ...   /  7select.sql  "
+echo " 7 - ***  Вариант 5  Select ...   /  7select.sql  "
 echo ""
 
 
